@@ -1,4 +1,4 @@
-package com.jw0293.study.springwebservice.web;
+package com.jw0293.study.springwebservice.web.controller;
 
 import com.jw0293.study.springwebservice.service.PostsService;
 import com.jw0293.study.springwebservice.web.dto.PostsResponseDto;
